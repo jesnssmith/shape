@@ -17,6 +17,7 @@ public class Line extends Shape {
 	@Override
 	public void draw(Graphics g) {
 		g.drawLine(x1, y1, x2, y2);
+		
 	}
 
 }
