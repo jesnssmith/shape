@@ -18,6 +18,7 @@ public class Picture extends JFrame {
 
 		@Override
 		protected void paintComponent(Graphics g) {
+			
 			super.paintComponent(g);
 			for ( Shape s : listShape )
 			{
