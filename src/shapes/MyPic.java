@@ -15,5 +15,6 @@ public class MyPic {
 		pic.add(l1);
 		pic.add(c2);
 		pic.draw();	
+		System.out.println("git");
 	}
 }
